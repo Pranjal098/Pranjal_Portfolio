@@ -2,4 +2,4 @@ This repository showcases a collection of data analysis and visualization projec
 These projects demonstrate my ability to gather, clean, analyze, and present data to extract meaningful insights and drive data-informed decisions.
 
 
-Project 1st : Ecommerce EDA 
+Project 1st : Ecommerce EDA
