@@ -3,3 +3,4 @@ These projects demonstrate my ability to gather, clean, analyze, and present dat
 
 
 Project 1st : Ecommerce EDA
+Project 2nd : Online Courses Analysis
